@@ -1,6 +1,9 @@
 # 📊 Interactive Data Dashboard
 
 An interactive data visualization dashboard built with Streamlit. Upload CSV files or explore sample datasets with dynamic filtering and multiple chart types.
+**Live Demo:** [Click here to view the dashboard](https://data-dashboard-usql6gnj4f84xvc9rjqpbi.streamlit.app/)
+
+
 
 ## 🛠️ Tech Stack
 
